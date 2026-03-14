@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
