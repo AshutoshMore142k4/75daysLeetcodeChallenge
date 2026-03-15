@@ -1,13 +1,13 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        sort( begin( nums) , end(nums));
-        vector<int>ans;
-        for( int i = 1; i <= nums.size() ; i++)
-            if ( !binary_search( begin(nums) , end( nums) , i))
-            ans.push_back(i);
+        unordered_set<int>s(begin(nums) , end( nums));
+        vector<int>ans( size(nums) - size(s));
+      
+        for( int i =1, j = 0 ; i <= size(nums); i++)
+            if ( !s.count(i)) ans[j++] = i ;
             return ans;
-        }
+
         
-    
+    }
 };
