@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Sorting
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
