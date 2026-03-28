@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
