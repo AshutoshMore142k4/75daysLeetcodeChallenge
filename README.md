@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 <!---LeetCode Topics End-->
