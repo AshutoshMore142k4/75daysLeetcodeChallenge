@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
@@ -228,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
