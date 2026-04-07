@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Linked List
 |  |
