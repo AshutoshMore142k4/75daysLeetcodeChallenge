@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
