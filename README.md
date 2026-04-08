@@ -243,8 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
