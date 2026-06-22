@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1189-maximum-number-of-balloons](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
 |  |
 | ------- |
