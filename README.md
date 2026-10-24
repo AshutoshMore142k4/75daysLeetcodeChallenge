@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
@@ -53,8 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
@@ -73,8 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3488-closest-equal-element-queries) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0035-search-insert-position) |
@@ -87,8 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -97,24 +97,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1109-corporate-flight-bookings) |
 | [1732-find-the-highest-altitude](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
@@ -125,8 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0396-rotate-function) |
@@ -135,15 +135,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
@@ -162,8 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
@@ -175,25 +175,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -207,38 +207,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0396-rotate-function) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -246,81 +247,82 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3093-longest-common-suffix-queries) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
