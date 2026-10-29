@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Monotonic Stack
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
