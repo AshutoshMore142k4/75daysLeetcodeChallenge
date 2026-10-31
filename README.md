@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
