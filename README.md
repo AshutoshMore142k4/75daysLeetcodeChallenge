@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2906-construct-product-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2906-construct-product-matrix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [2747-count-zero-request-servers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2747-count-zero-request-servers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [2747-count-zero-request-servers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
