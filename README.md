@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3093-longest-common-suffix-queries) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
