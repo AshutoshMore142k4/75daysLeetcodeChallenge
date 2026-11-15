@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1109-corporate-flight-bookings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0396-rotate-function) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
