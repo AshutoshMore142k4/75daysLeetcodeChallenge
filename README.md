@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 | Problem Name | Difficulty |
