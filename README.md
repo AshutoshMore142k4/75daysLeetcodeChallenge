@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3665-twisted-mirror-path-count/) | Medium |
