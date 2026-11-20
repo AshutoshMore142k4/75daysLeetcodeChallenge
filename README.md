@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2747-count-zero-request-servers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2906-construct-product-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2906-construct-product-matrix) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3093-longest-common-suffix-queries) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3665-twisted-mirror-path-count/) | Medium |
