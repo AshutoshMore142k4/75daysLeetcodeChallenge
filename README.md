@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3488-closest-equal-element-queries) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
