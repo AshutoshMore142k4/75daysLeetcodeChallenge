@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
