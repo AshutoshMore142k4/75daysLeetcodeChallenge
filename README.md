@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1109-corporate-flight-bookings) |
 | [1254-number-of-closed-islands](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
