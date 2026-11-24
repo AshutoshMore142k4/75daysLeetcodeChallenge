@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [2747-count-zero-request-servers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -432,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
