@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3878-count-good-subarrays](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3878-count-good-subarrays) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,4 +445,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/AshutoshMore142k4/75daysLeetcodeChallenge/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
